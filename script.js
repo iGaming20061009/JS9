@@ -72,12 +72,6 @@ document.getElementById("loadmore").addEventListener("click", function () {
     console.log(currentPage);
 });
 
-if (currentPage == 1) {
-    
-} else {
-    
-}
-
 // if (currentPage == totalPages){
 //     document.getElementById("loadmore").disabled = true;
 // }
