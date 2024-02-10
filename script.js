@@ -71,8 +71,5 @@ document.getElementById("loadmore").addEventListener("click", function () {
     getUsers(currentPage);
     console.log(currentPage);
 });
-
-// if (currentPage == totalPages){
-//     document.getElementById("loadmore").disabled = true;
-// }
 getUsers(currentPage);
+
