@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+#list-users {
+    display: flex;
+}
+.postElement {
+    width: 400px;
+    background-color: cadetblue;
+    color: #fff;
+    margin-bottom: 30px;
+}
